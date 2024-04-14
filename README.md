@@ -1,8 +1,6 @@
 # workflow tools
 
-<div style="text-align:center;">
-    <img src="./logo.png" alt="Project Image" width="400" height="400"/>
-</div>
+<p align="center"><img src="./logo.png" alt="logo" width="40%" /></p>
 
 ## Why Use Scripts in Daily Workflow?
 
